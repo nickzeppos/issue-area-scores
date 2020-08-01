@@ -11,8 +11,8 @@ one policy area, but can have many legislative subjects.
 
 Policy areas are coded "by legislative analysts in the Congressional Research Service upon the release of official text by
 the Government Publishing Office." There is often a short delay between
-publication of bill text and when a bill receives a policy area code from CRS, though this likely wouldn't present problems for
-Lawmakers. The policy area associated with a bill can also change within a Congress, as a consequence of the legislative process:
+publication of bill text and when a bill receives a policy area code from CRS. The policy area associated with a bill can
+also change within a Congress, depending on changes it undergoes in the legislative process:
 
 > "In some cases, the character of a measure may
 > change drastically in the course of the legislative process (as when a bill is substantially amended and expanded after
