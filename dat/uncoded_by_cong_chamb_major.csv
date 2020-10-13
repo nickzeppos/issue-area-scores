@@ -1,0 +1,254 @@
+Cong,BillType,Major,count
+93,hr,agriculture,170
+93,hr,civil rights,13
+93,hr,defense,31
+93,hr,domestic commerce,130
+93,hr,education,3
+93,hr,energy,76
+93,hr,environment,2
+93,hr,foreign trade,7
+93,hr,government operations,44
+93,hr,health,96
+93,hr,housing,12
+93,hr,immigration,4
+93,hr,international affairs,9
+93,hr,labor,234
+93,hr,law and crime,3
+93,hr,macroeconomics,30
+93,hr,public lands,140
+93,hr,social welfare,9
+93,hr,transportation,8
+93,s,agriculture,53
+93,s,civil rights,1
+93,s,defense,8
+93,s,domestic commerce,37
+93,s,energy,16
+93,s,foreign trade,2
+93,s,government operations,10
+93,s,health,3
+93,s,housing,3
+93,s,immigration,2
+93,s,international affairs,4
+93,s,labor,37
+93,s,law and crime,3
+93,s,macroeconomics,6
+93,s,public lands,93
+93,s,social welfare,3
+93,s,transportation,6
+94,hr,agriculture,9
+94,hr,civil rights,31
+94,hr,culture,3
+94,hr,defense,21
+94,hr,domestic commerce,13
+94,hr,education,2
+94,hr,energy,3
+94,hr,environment,1
+94,hr,foreign trade,2
+94,hr,government operations,39
+94,hr,health,1
+94,hr,housing,2
+94,hr,immigration,4
+94,hr,international affairs,11
+94,hr,labor,158
+94,hr,macroeconomics,14
+94,hr,public lands,29
+94,hr,social welfare,5
+94,hr,technology,1
+94,hr,transportation,29
+94,s,civil rights,4
+94,s,defense,6
+94,s,domestic commerce,7
+94,s,education,1
+94,s,energy,3
+94,s,government operations,8
+94,s,immigration,2
+94,s,international affairs,3
+94,s,labor,29
+94,s,macroeconomics,7
+94,s,public lands,11
+94,s,social welfare,1
+94,s,transportation,5
+95,hr,agriculture,230
+95,hr,defense,4
+95,hr,domestic commerce,7
+95,hr,energy,3
+95,hr,environment,4
+95,hr,foreign trade,3
+95,hr,government operations,29
+95,hr,health,9
+95,hr,housing,3
+95,hr,immigration,6
+95,hr,international affairs,3
+95,hr,labor,80
+95,hr,law and crime,44
+95,hr,macroeconomics,1
+95,hr,public lands,18
+95,hr,social welfare,12
+95,hr,technology,1
+95,hr,transportation,11
+95,s,agriculture,78
+95,s,civil rights,1
+95,s,defense,4
+95,s,domestic commerce,6
+95,s,energy,5
+95,s,foreign trade,1
+95,s,government operations,13
+95,s,health,2
+95,s,housing,1
+95,s,immigration,9
+95,s,international affairs,2
+95,s,labor,30
+95,s,law and crime,6
+95,s,macroeconomics,3
+95,s,public lands,7
+95,s,social welfare,5
+95,s,transportation,1
+96,hr,culture,3
+96,hr,defense,6
+96,hr,domestic commerce,6
+96,hr,energy,5
+96,hr,environment,2
+96,hr,foreign trade,2
+96,hr,government operations,18
+96,hr,immigration,1
+96,hr,law and crime,84
+96,hr,public lands,13
+96,hr,transportation,15
+96,s,culture,1
+96,s,defense,4
+96,s,domestic commerce,4
+96,s,energy,5
+96,s,environment,1
+96,s,foreign trade,2
+96,s,government operations,10
+96,s,immigration,1
+96,s,law and crime,30
+96,s,public lands,8
+96,s,transportation,7
+97,hr,civil rights,1
+97,hr,defense,4
+97,hr,domestic commerce,2
+97,hr,energy,16
+97,hr,foreign trade,1
+97,hr,government operations,7
+97,hr,law and crime,2
+97,hr,public lands,13
+97,hr,transportation,15
+97,s,defense,2
+97,s,education,1
+97,s,energy,18
+97,s,foreign trade,1
+97,s,government operations,5
+97,s,macroeconomics,1
+97,s,public lands,3
+97,s,transportation,6
+98,hr,defense,3
+98,hr,domestic commerce,3
+98,hr,energy,2
+98,hr,foreign trade,6
+98,hr,government operations,5
+98,hr,immigration,2
+98,hr,law and crime,4
+98,hr,public lands,11
+98,hr,transportation,13
+98,s,agriculture,1
+98,s,defense,2
+98,s,domestic commerce,2
+98,s,education,1
+98,s,energy,1
+98,s,foreign trade,7
+98,s,government operations,7
+98,s,international affairs,1
+98,s,public lands,2
+98,s,transportation,8
+99,hr,defense,1
+99,hr,domestic commerce,4
+99,hr,foreign trade,2
+99,hr,government operations,4
+99,hr,health,1
+99,hr,public lands,9
+99,hr,transportation,16
+99,s,domestic commerce,3
+99,s,foreign trade,3
+99,s,government operations,6
+99,s,public lands,1
+99,s,social welfare,1
+99,s,transportation,2
+100,hr,defense,3
+100,hr,domestic commerce,4
+100,hr,foreign trade,1
+100,hr,government operations,10
+100,hr,law and crime,1
+100,hr,macroeconomics,1
+100,hr,public lands,5
+100,hr,transportation,18
+100,s,domestic commerce,1
+100,s,foreign trade,2
+100,s,government operations,3
+100,s,public lands,6
+100,s,transportation,9
+101,hr,defense,3
+101,hr,domestic commerce,5
+101,hr,energy,1
+101,hr,foreign trade,2
+101,hr,government operations,3
+101,hr,public lands,4
+101,hr,transportation,45
+101,s,government operations,1
+101,s,public lands,1
+102,hr,defense,2
+102,hr,domestic commerce,4
+102,hr,foreign trade,6
+102,hr,government operations,2
+102,hr,public lands,4
+102,hr,transportation,40
+102,s,defense,1
+102,s,government operations,1
+103,hr,defense,1
+103,hr,domestic commerce,3
+103,hr,foreign trade,1
+103,hr,public lands,4
+103,hr,transportation,98
+104,hr,domestic commerce,2
+104,hr,energy,1
+104,hr,foreign trade,4
+104,hr,government operations,2
+104,hr,health,2
+104,hr,law and crime,1
+104,hr,public lands,1
+104,hr,transportation,64
+104,s,government operations,1
+105,hr,defense,4
+105,hr,domestic commerce,1
+105,hr,foreign trade,6
+105,hr,government operations,3
+105,hr,transportation,35
+105,s,government operations,3
+106,hr,social welfare,1
+106,s,government operations,50
+106,s,immigration,1
+106,s,public lands,2
+107,s,defense,3
+107,s,government operations,6
+107,s,immigration,18
+107,s,social welfare,1
+108,hr,civil rights,1
+108,hr,defense,1
+108,hr,foreign trade,1
+109,hr,foreign trade,4
+109,hr,government operations,4
+109,hr,immigration,1
+109,hr,social welfare,3
+110,hr,government operations,4
+111,hr,domestic commerce,1
+111,hr,government operations,2
+111,hr,health,2
+111,hr,transportation,5
+112,hr,foreign trade,2
+112,hr,government operations,1
+112,hr,immigration,1
+112,s,immigration,1
+113,hr,defense,2
+113,hr,government operations,1
+113,hr,transportation,1
+114,hr,defense,3

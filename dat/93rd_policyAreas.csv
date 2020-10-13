@@ -1,0 +1,262 @@
+Cong,BillType,PolicyArea,count
+93,hr,Abortion,19
+93,hr,Adoption,36
+93,hr,Agricultural assistance,3
+93,hr,Agriculture and Food,337
+93,hr,Alcoholic beverages,44
+93,hr,American Revolution Bicentennial,14
+93,hr,Animals,195
+93,hr,Armed Forces and National Security,1358
+93,hr,"Arts, Culture, Religion",80
+93,hr,Automobile insurance,6
+93,hr,"Awards, medals, prizes",19
+93,hr,Blind,8
+93,hr,Canals,18
+93,hr,Charities,3
+93,hr,Child welfare,53
+93,hr,"Civil Rights and Liberties, Minority Issues",95
+93,hr,Civil procedure,5
+93,hr,Claims,24
+93,hr,Coins and coinage,17
+93,hr,Commemorations,11
+93,hr,Commerce,431
+93,hr,Congress,154
+93,hr,Congressional-Presidential relations,39
+93,hr,Congressional-executive relations,86
+93,hr,Conservation of natural resources,25
+93,hr,Construction industries,6
+93,hr,Credit,64
+93,hr,Credit cards,10
+93,hr,Crime and Law Enforcement,611
+93,hr,Dams,34
+93,hr,Disabled,62
+93,hr,Disaster insurance,18
+93,hr,Disaster relief,24
+93,hr,Disasters,26
+93,hr,Discrimination in employment,1
+93,hr,District of Columbia,199
+93,hr,Domestic relations,13
+93,hr,Drug law and legislation,19
+93,hr,Drugs,31
+93,hr,Economic stabilization,55
+93,hr,Economics and Public Finance,285
+93,hr,Education,358
+93,hr,Emergency Management,146
+93,hr,Energy,472
+93,hr,Environmental Protection,333
+93,hr,Executive impoundment of appropriated funds,7
+93,hr,Executive reorganization,7
+93,hr,Explosives,15
+93,hr,Families,29
+93,hr,Federal aid programs,11
+93,hr,Federal officials,2
+93,hr,Finance and Financial Sector,62
+93,hr,Fire fighters,26
+93,hr,Fishing,8
+93,hr,Fishing boats,16
+93,hr,Foreign Trade and International Finance,366
+93,hr,Fraternal organizations,1
+93,hr,Gambling,3
+93,hr,Gasoline,19
+93,hr,Gold,27
+93,hr,Government Operations and Politics,1752
+93,hr,Government publications,18
+93,hr,Great Lakes,7
+93,hr,Health,877
+93,hr,Higher education,2
+93,hr,Home ownership,5
+93,hr,Horses,10
+93,hr,Housing and Community Development,262
+93,hr,Immigration,155
+93,hr,Impeachments,4
+93,hr,Independent regulatory commissions,20
+93,hr,Inflation,7
+93,hr,Insurance,11
+93,hr,Interest,5
+93,hr,Interest rates,11
+93,hr,Intergovernmental relations,27
+93,hr,International Affairs,162
+93,hr,Japanese Americans,1
+93,hr,Labor and Employment,299
+93,hr,Law,145
+93,hr,Lawyers,4
+93,hr,Livestock,21
+93,hr,Lotteries,50
+93,hr,Lumber trade,3
+93,hr,Meat,63
+93,hr,Mines and mineral resources,30
+93,hr,Minorities,12
+93,hr,Monuments and memorials,47
+93,hr,Motor vehicles,158
+93,hr,Names,7
+93,hr,Narcotic addicts,10
+93,hr,Narcotic law and legislation,49
+93,hr,Narcotics,10
+93,hr,Ombudsman,9
+93,hr,Paper and paper products,11
+93,hr,Parking facilities,3
+93,hr,Peace,9
+93,hr,Periodicals,2
+93,hr,Pest management,1
+93,hr,Petrochemicals,16
+93,hr,Petroleum industry,192
+93,hr,Pharmacists,4
+93,hr,Pornography,13
+93,hr,Public Lands and Natural Resources,806
+93,hr,Public demonstrations,3
+93,hr,Public works,58
+93,hr,Rape,15
+93,hr,Real property,10
+93,hr,Reclamation of land,6
+93,hr,Recreation,11
+93,hr,Recreation areas,37
+93,hr,Retail trade,19
+93,hr,Right of privacy,79
+93,hr,Rivers,55
+93,hr,Rural affairs legislation,41
+93,hr,Rural conditions,6
+93,hr,Rural economic development,11
+93,hr,"Science, Technology, Communications",286
+93,hr,Ships and shipping,9
+93,hr,Social Welfare,1000
+93,hr,Sports and Recreation,88
+93,hr,Strategic materials,33
+93,hr,Survivors' benefits,5
+93,hr,Taxation,1025
+93,hr,Teachers,23
+93,hr,Territorial waters,20
+93,hr,Territories (U.S.),44
+93,hr,Tobacco,32
+93,hr,Tobacco industry,3
+93,hr,Transportation and Public Works,759
+93,hr,Travel,25
+93,hr,Urban affairs,4
+93,hr,Vietnamese Conflict,80
+93,hr,Volunteer workers,5
+93,hr,Water Resources Development,37
+93,hr,Water conservation,17
+93,hr,Women,22
+93,hr,Youth,48
+93,hr,uncoded,1021
+93,s,Adoption,5
+93,s,Agriculture and Food,55
+93,s,Alcoholic beverages,2
+93,s,American Revolution Bicentennial,3
+93,s,Animals,23
+93,s,Armed Forces and National Security,217
+93,s,"Arts, Culture, Religion",23
+93,s,Automobile insurance,1
+93,s,"Awards, medals, prizes",7
+93,s,Blind,2
+93,s,Canals,1
+93,s,Child welfare,8
+93,s,"Civil Rights and Liberties, Minority Issues",20
+93,s,Claims,10
+93,s,Coins and coinage,7
+93,s,Commemorations,7
+93,s,Commerce,89
+93,s,Congress,38
+93,s,Congressional-Presidential relations,10
+93,s,Conservation of natural resources,6
+93,s,Credit,14
+93,s,Crime and Law Enforcement,106
+93,s,Dams,13
+93,s,Disabled,17
+93,s,Disaster insurance,2
+93,s,Disaster relief,15
+93,s,Disasters,4
+93,s,Discrimination in employment,1
+93,s,District of Columbia,24
+93,s,Domestic relations,2
+93,s,Drug law and legislation,18
+93,s,Drugs,4
+93,s,Economic stabilization,17
+93,s,Economics and Public Finance,87
+93,s,Education,73
+93,s,Emergency Management,27
+93,s,Energy,110
+93,s,Environmental Protection,69
+93,s,Executive impoundment of appropriated funds,1
+93,s,Executive reorganization,4
+93,s,Explosives,1
+93,s,Families,6
+93,s,Federal aid programs,3
+93,s,Federal officials,2
+93,s,Finance and Financial Sector,22
+93,s,Fire fighters,1
+93,s,Fishing,12
+93,s,Fishing boats,4
+93,s,Foreign Trade and International Finance,75
+93,s,Fraternal organizations,2
+93,s,Gambling,2
+93,s,Gasoline,7
+93,s,Gold,7
+93,s,Government Operations and Politics,334
+93,s,Government publications,4
+93,s,Great Lakes,2
+93,s,Health,143
+93,s,Horses,1
+93,s,Housing and Community Development,68
+93,s,Immigration,24
+93,s,Independent regulatory commissions,9
+93,s,Inflation,5
+93,s,Insurance,2
+93,s,Interest,3
+93,s,Interest rates,1
+93,s,Intergovernmental relations,3
+93,s,International Affairs,55
+93,s,Japanese Americans,3
+93,s,Labor and Employment,66
+93,s,Law,58
+93,s,Lawyers,1
+93,s,Livestock,8
+93,s,Lotteries,6
+93,s,Lumber trade,1
+93,s,Meat,8
+93,s,Mines and mineral resources,19
+93,s,Monuments and memorials,18
+93,s,Motor vehicles,35
+93,s,Names,6
+93,s,Narcotic addicts,1
+93,s,Narcotic law and legislation,13
+93,s,Narcotics,2
+93,s,Ombudsman,1
+93,s,Paper and paper products,1
+93,s,Peace,1
+93,s,Petrochemicals,3
+93,s,Petroleum industry,25
+93,s,Pornography,1
+93,s,Public Lands and Natural Resources,328
+93,s,Public demonstrations,1
+93,s,Public works,12
+93,s,Rape,1
+93,s,Real property,3
+93,s,Recreation,1
+93,s,Recreation areas,18
+93,s,Right of privacy,9
+93,s,Rivers,23
+93,s,Rural affairs legislation,9
+93,s,Rural conditions,1
+93,s,Rural economic development,3
+93,s,"Science, Technology, Communications",55
+93,s,Ships and shipping,3
+93,s,Social Sciences and History,1
+93,s,Social Welfare,153
+93,s,Sports and Recreation,17
+93,s,Strategic materials,7
+93,s,Survivors' benefits,1
+93,s,Taxation,159
+93,s,Teachers,1
+93,s,Territorial waters,1
+93,s,Territories (U.S.),11
+93,s,Tobacco,5
+93,s,Tobacco industry,2
+93,s,Transportation and Public Works,208
+93,s,Travel,7
+93,s,Vietnamese Conflict,12
+93,s,Volunteer workers,3
+93,s,Water Resources Development,15
+93,s,Water conservation,5
+93,s,Women,2
+93,s,Youth,5
+93,s,uncoded,287
