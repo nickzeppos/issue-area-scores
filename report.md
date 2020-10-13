@@ -348,16 +348,16 @@ Some of these categories easily collapse into one our two CAP major issue areas,
 
 ### Vietnamese Conflict
 
-| Cong | Major                 |     |
-| ---- | --------------------- | --- |
-| 93   | defense               | 40  |
-|      | health                | 1   |
-|      | immigration           | 19  |
-|      | international affairs | 32  |
-| 94   | defense               | 7   |
-|      | education             | 1   |
-|      | immigration           | 1   |
-|      | international affairs | 5   |
+| Cong | Major                 | Count |
+| ---- | --------------------- | ----- |
+| 93   | defense               | 40    |
+|      | health                | 1     |
+|      | immigration           | 19    |
+|      | international affairs | 32    |
+| 94   | defense               | 7     |
+|      | education             | 1     |
+|      | immigration           | 1     |
+|      | international affairs | 5     |
 
 ## Data
 
